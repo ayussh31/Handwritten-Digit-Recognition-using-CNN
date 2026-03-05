@@ -1,6 +1,6 @@
 # Handwritten-Digit-Recognition-using-CNN
 This project implements a Handwritten Digit Recognition system using a Convolutional Neural Network (CNN) to classify handwritten digits from images. The model is trained on the MNIST dataset, a widely used dataset in machine learning that contains grayscale images of digits from 0 to 9.
-DATASET
+<mark>DATASET</mark>
 The project uses the famous MNIST dataset, which consists of 60,000 labeled images of handwritten digits for training and 10,000 labeled images for testing. Each image is 28x28 pixels in size and grayscale, with pixel values ranging from 0 to 255. The dataset is preprocessed to normalize pixel values.
 MODEL ARCHITECTURE
 The first layer is a convolutional layer (Conv2D) with 32 filters, a kernel size of (3, 3), and a ReLU activation function. It takes an input image of shape (28, 28, 1) where 1 represents grayscale channel.
