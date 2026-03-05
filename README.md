@@ -23,6 +23,12 @@ Two fully connected layers (Dense) are added on top of the flattened output. The
 Streamit Front end
 The Streamlit front-end provides a simple and interactive web-based user interface for users to draw digit and get predictions from the trained CNN model.
 Draw a digit on a canvas: Users can use the mouse or touchpad to draw a digit on a canvas provided by the Streamlit app. The drawn image is then passed to the trained CNN model for prediction.
+
+<mark><b>Model evaluation</b></mark>
+
+<img width="1198" height="83" alt="proj 2" src="https://github.com/user-attachments/assets/8fe22c3f-2c32-4cbe-849f-a01c0fd6f34e" />
+
+
 Display prediction results: The Streamlit app displays the predicted digit.
 Sample output
 <img width="1490" height="691" alt="proj" src="https://github.com/user-attachments/assets/e3ecdfd0-11c7-41f4-b703-ca4a794dfb4f" />
