@@ -29,6 +29,15 @@ Draw a digit on a canvas: Users can use the mouse or touchpad to draw a digit on
 <img width="1198" height="83" alt="proj 2" src="https://github.com/user-attachments/assets/8fe22c3f-2c32-4cbe-849f-a01c0fd6f34e" />
 
 
+
+Display prediction results: The Streamlit app displays the predicted digit.
+Sample output
+<img width="1490" height="691" alt="proj" src="https://github.com/user-attachments/assets/e3ecdfd0-11c7-41f4-b703-ca4a794dfb4f" />
+<img width="1239" height="578" alt="proj1" src="https://github.com/user-attachments/assets/9ca5f587-a6bc-4790-b4ea-527c1b84df3e" />
+
+
+
+
 Project structure 
 handwritten-digit-recognition-cnn
 │
@@ -39,11 +48,5 @@ handwritten-digit-recognition-cnn
 ├── model.h5
 ├── requirements.txt
 └── README.md
-
-
-Display prediction results: The Streamlit app displays the predicted digit.
-Sample output
-<img width="1490" height="691" alt="proj" src="https://github.com/user-attachments/assets/e3ecdfd0-11c7-41f4-b703-ca4a794dfb4f" />
-<img width="1239" height="578" alt="proj1" src="https://github.com/user-attachments/assets/9ca5f587-a6bc-4790-b4ea-527c1b84df3e" />
 
 
