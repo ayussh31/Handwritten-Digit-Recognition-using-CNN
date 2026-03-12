@@ -58,8 +58,19 @@ README.md
 
 
 requirements.txt
+
+
 tensorflow
-numpy
+
+numpy 
+
+
+
+
 matplotlib
+
+
+
+
 pillow
 
