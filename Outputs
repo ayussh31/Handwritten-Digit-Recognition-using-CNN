@@ -1,0 +1,15 @@
+TRAINING OUTPUT
+
+
+Epoch 1/5
+accuracy: 0.96
+val_accuracy: 0.98
+
+
+
+PREDICTION OUTPUT
+
+
+
+Predicted Digit: 7
+Actual Digit: 7
