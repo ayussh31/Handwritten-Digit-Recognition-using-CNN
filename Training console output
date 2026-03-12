@@ -1,0 +1,15 @@
+Epoch 1/5
+1875/1875 [==============================] - 12s
+accuracy: 0.9643 - val_accuracy: 0.9801
+
+Epoch 2/5
+accuracy: 0.9852 - val_accuracy: 0.9874
+
+Epoch 3/5
+accuracy: 0.9893 - val_accuracy: 0.9891
+
+Epoch 4/5
+accuracy: 0.9912 - val_accuracy: 0.9902
+
+Epoch 5/5
+accuracy: 0.9930 - val_accuracy: 0.9915
