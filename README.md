@@ -43,10 +43,16 @@ handwritten-digit-recognition-cnn
 │
 ├── dataset
 │
-├── train_model.py
-├── predict_digit.py
-├── model.h5
-├── requirements.txt
-└── README.md
+
+├──
+train_model.py
+├──
+predict_digit.py
+├──
+model.h5
+├──
+requirements.txt
+└── 
+README.md
 
 
