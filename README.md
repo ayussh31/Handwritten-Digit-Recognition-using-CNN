@@ -56,3 +56,10 @@ requirements.txt
 README.md
 
 
+
+requirements.txt
+tensorflow
+numpy
+matplotlib
+pillow
+
