@@ -1,0 +1,47 @@
+MODEL ARCHITECTURE
+
+
+
+
+Input Layer (28x28x1)
+↓
+
+
+Conv2D (32 filters)
+
+
+
+↓
+MaxPooling
+
+
+
+↓
+Conv2D (64 filters)
+
+
+
+
+↓
+MaxPooling
+
+
+
+↓
+Conv2D (64 filters)
+
+
+
+↓
+Flatten
+
+
+
+↓
+Dense (64)
+
+
+
+
+↓
+Output Layer (10 digits)
